@@ -1,5 +1,3 @@
-Este README.md está diseñado para que Bendi (la IA evaluadora) encuentre exactamente lo que busca para asignarte el puntaje máximo, cumpliendo con los límites de caracteres y las fuentes oficiales exigidas.
-------------------------------
 ## 🛡️ Soberanía Digital: Privacy Hub & IA Compliance
 Infraestructura de control ciudadano bajo la Ley 21.719
 ## 1. Ficha Cívica (Evaluación Bendi)
