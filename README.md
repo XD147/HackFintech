@@ -1,4 +1,5 @@
-## Soberanía Digital: Privacy Hub & IA Compliance## Empoderando al ciudadano a través del control total de sus datos personales.
+## Soberanía Digital: Privacy Hub & IA Compliance
+## Empoderando al ciudadano a través del control total de sus datos personales.
 
 ## 📌 Visión General
 En el marco de la nueva Ley 21.719 de Protección de Datos Personales en Chile, Soberanía Digital nace como la infraestructura necesaria para devolver el poder al titular de la información.
